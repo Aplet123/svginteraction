@@ -1,0 +1,23 @@
+{
+  "name": "svginteraction",
+  "version": "0.0.1",
+  "description": "Something to interact with SVG.",
+  "main": "svginteraction.js",
+  "scripts": {
+    "test": "echo \"hi\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aplet123/svginteraction.git"
+  },
+  "keywords": [
+    "svg",
+    "interaction"
+  ],
+  "author": "Aplet123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aplet123/svginteraction/issues"
+  },
+  "homepage": "https://github.com/Aplet123/svginteraction#readme"
+}
